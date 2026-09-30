@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2244" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-17" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="330" width="930" x="-170" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-3" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" value="" vertex="1">
+          <mxGeometry height="270" width="461" x="200" y="315" as="geometry" />
+        </mxCell>
+        <object label="" id="FMrOh3e-LaYWXbZFOFWb-1">
+          <mxCell parent="FMrOh3e-LaYWXbZFOFWb-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="227.65" width="440" y="42.35" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-2" parent="FMrOh3e-LaYWXbZFOFWb-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;code&gt;Movie Theater Ticket Kiosk&lt;/code&gt;" vertex="1">
+          <mxGeometry height="42.352941176470594" width="332.19117647058823" x="74.57352941176471" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-4" parent="FMrOh3e-LaYWXbZFOFWb-3" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="View Showtimes&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="199" x="121" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-5" parent="FMrOh3e-LaYWXbZFOFWb-3" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Select Seat" vertex="1">
+          <mxGeometry height="60" width="199" x="121" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-6" parent="FMrOh3e-LaYWXbZFOFWb-3" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Purchase Tickets" vertex="1">
+          <mxGeometry height="60" width="199" x="121" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-13" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FMrOh3e-LaYWXbZFOFWb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMrOh3e-LaYWXbZFOFWb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-14" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FMrOh3e-LaYWXbZFOFWb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMrOh3e-LaYWXbZFOFWb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-15" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FMrOh3e-LaYWXbZFOFWb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FMrOh3e-LaYWXbZFOFWb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-16" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="160" x="-130" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-12" parent="FMrOh3e-LaYWXbZFOFWb-16" style="whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="100" width="160" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FMrOh3e-LaYWXbZFOFWb-0" parent="FMrOh3e-LaYWXbZFOFWb-16" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Customer" vertex="1">
+          <mxGeometry height="110" width="60" x="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
